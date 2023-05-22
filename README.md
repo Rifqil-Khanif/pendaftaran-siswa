@@ -4,6 +4,15 @@
 
 [`Cek webnya disini`](https://pendaftaran-siswa.up.railway.app/)<br>
 
+# Info Login
+## Login Ke Webnya menggunakan Username dan Password dibawah
+
+```
+> USERNAME : admin
+> PASSWORD : 123
+```
+
+
 ## Edit Config Untuk Menyambungkan Server Database
 
 <details>
